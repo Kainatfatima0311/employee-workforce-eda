@@ -51,6 +51,13 @@ employee-workforce-eda/
 9. Perform multivariate analysis
 10. Generate insights and recommendations
 
+## 📄 Dataset
+
+This project uses a synthetic employee workforce dataset created for learning and portfolio purposes. The dataset includes intentionally introduced data quality issues such as missing values, duplicate records, inconsistent categories, outliers, invalid dates, and invalid email formats to demonstrate real-world data cleaning and analysis techniques.
+
+
 ## Project Status
 
 Project setup completed. Dataset analysis will be added step by step. 
+
+⭐ If you found this project helpful, consider giving it a star.
